@@ -11,11 +11,11 @@ export const NftPreviewCard = () => (
     <figure className="card">
 
         <div className="img-container">
-            <img src={mainImg} alt="" className="img" />
+            <img src={mainImg} alt="Main nft preview image" className="img" />
         </div>
 
         <div className="text-container">
-            <a href="" className="link">
+            <a href="#" className="link" >
                 <h3 className="title">
                     Equilibrium #3429
                 </h3>
@@ -28,19 +28,19 @@ export const NftPreviewCard = () => (
             <div className="stats-container">
                 <span className="stat">
                     <EthereumIcon className="stat-icon" />
-                    <span className="eth-text">
+                    <span className="eth-text" alt="Ethereum icon">
                         0.041 ETH
                     </span>
                 </span>
                 <span className="stat">
-                    <ClockIcon className="stat-icon" />
+                    <ClockIcon className="stat-icon" alt="Clock icon"/>
                     <span>3 days left</span>
                 </span>
             </div>
 
             <div className="footer-container">
                 <figure className="author">
-                    <img src={avatarImg} alt="" className="author-img" />
+                    <img src={avatarImg} alt="User avatar" className="author-img" />
                     <label className="author-text">
                         Creation of <a href="#" className="link">Jules Wyvern</a>
                     </label>
