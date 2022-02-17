@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/challenges-nft-card-preview/static/css/main.5174f04d.css",
-    "main.js": "/challenges-nft-card-preview/static/js/main.2775591f.js",
+    "main.js": "/challenges-nft-card-preview/static/js/main.5a9f14e5.js",
     "static/js/787.cb67e081.chunk.js": "/challenges-nft-card-preview/static/js/787.cb67e081.chunk.js",
     "static/media/image-equilibrium.jpg": "/challenges-nft-card-preview/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/challenges-nft-card-preview/index.html",
@@ -9,11 +9,11 @@
     "static/media/icon-clock.svg": "/challenges-nft-card-preview/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
     "static/media/icon-ethereum.svg": "/challenges-nft-card-preview/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
     "main.5174f04d.css.map": "/challenges-nft-card-preview/static/css/main.5174f04d.css.map",
-    "main.2775591f.js.map": "/challenges-nft-card-preview/static/js/main.2775591f.js.map",
+    "main.5a9f14e5.js.map": "/challenges-nft-card-preview/static/js/main.5a9f14e5.js.map",
     "787.cb67e081.chunk.js.map": "/challenges-nft-card-preview/static/js/787.cb67e081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5174f04d.css",
-    "static/js/main.2775591f.js"
+    "static/js/main.5a9f14e5.js"
   ]
 }
