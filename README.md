@@ -18,7 +18,7 @@ Live demo: https://mikes-sandbox.github.io/challenges-nft-card-preview/
 
 ### Screenshot
 
-![](./screenshot.png)
+![](screenshot.png)
 
 ### Links
 
